@@ -1,3 +1,3 @@
-# Welcome to my blog
+#                                             Welcome to Shahoor Technologies
 
-I'm glad you are here. I plan to talk about ...
+*Our innovators make applications to make you love your smartphones even more.*
