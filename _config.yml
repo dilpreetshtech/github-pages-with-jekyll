@@ -1,13 +1,19 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: SHAHOOR TECH
+author: Dilpreet Singh
+email: dilpreet.shtech@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 
+Our innovators make applications to make you
+     love your smartphones even more.
+
+Welcome to Shahoor Technology
+-----------------------------
+We are working hard everyday to start serving you soon and will not compromise on
+quality in order to launch soon. Stay in loop and keep watching this space for updates.
+ 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: dilpreetsingh95 # DO NOT include the @ character, or else the build will fail!
+github_username:  dilpreetshtech # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
